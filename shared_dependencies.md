@@ -1,0 +1,1 @@
+As the user has not provided any specific details about the app or the files to be generated, it's impossible to provide the shared dependencies, including exported variables, data schemas, id names of DOM elements, message names, and function names. Please provide more information about the app and the files to be generated.
