@@ -1,0 +1,70 @@
+/* custom_pc_builder.css */
+
+body.theme_custom_pc_v1_nov_16 {
+    background-color: #f5f5f5;
+}
+
+.theme_custom_pc_v1_nov_16 .pc-build-customization {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 20px;
+}
+
+.theme_custom_pc_v1_nov_16 .pc-build-preview {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 20px;
+}
+
+.theme_custom_pc_v1_nov_16 .pc-build-saving {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 20px;
+}
+
+.theme_custom_pc_v1_nov_16 .component-selection {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin: 20px;
+}
+
+.theme_custom_pc_v1_nov_16 .component {
+    flex-basis: 45%;
+    margin: 10px;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    background-color: #fff;
+}
+
+.theme_custom_pc_v1_nov_16 .component:hover {
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
+.theme_custom_pc_v1_nov_16 .component-selected {
+    border-color: #007bff;
+}
+
+.theme_custom_pc_v1_nov_16 .component-image {
+    width: 100%;
+    height: auto;
+}
+
+.theme_custom_pc_v1_nov_16 .component-name,
+.theme_custom_pc_v1_nov_16 .component-price {
+    margin: 10px 0;
+    text-align: center;
+}
+
+.theme_custom_pc_v1_nov_16 .component-name {
+    font-size: 1.2em;
+    font-weight: bold;
+}
+
+.theme_custom_pc_v1_nov_16 .component-price {
+    color: #007bff;
+}
